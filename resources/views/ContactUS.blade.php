@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+
 <div class="container contact-form" style="margin-top:100px">
   @if (session('status'))
       <div class="alert alert-success">
