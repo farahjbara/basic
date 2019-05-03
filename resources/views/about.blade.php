@@ -8,6 +8,7 @@
 
 
 <table  >
+
     <p style="text-align: center" class="font-weight-bolder">
         <img src="\assets\essths.png"   style="opacity: 0.9;  height:4rem; width:8rem" >
 
@@ -16,15 +17,15 @@
 
 
     <div class="card" style="width: 70rem; margin-left:6rem; margin-bottom:3rem;opacity: 0.9;">
-        <div class="card-body">
+        <div class="card-body" style="text-align: center ; font-size: 1.5rem;" class="font-weight-bolder">
           
-<h2>Qu'est-ce que Docteurs en ligne ?
+<h2 style="color:#531c56;">Qu'est-ce que Docteurs en ligne ?
   </h2>
   
-  <h5> Docteurs en ligne, est une plateforme de consultation médicale à distance qui guide les patients au meilleur médecin
+  <h4> Docteurs en ligne, est une plateforme de consultation médicale à distance qui guide les patients au meilleur médecin
    à tunisie. <br>
   
-  C'est l’annuaire de toutes les Spécialités Médicales</h5>
+  C'est l’annuaire de toutes les Spécialités Médicales</h4>
   
   
   
@@ -37,7 +38,7 @@
   
   
   
-  <ul><strong>Notre objective</strong></ul>
+  <ul style="color:#531c56;"><strong >Notre objective</strong></ul>
   
   <p> Nous avons créé le site Docteurs en ligne pour rendre le système de santé plus humain et connecté.<br>
   
@@ -51,7 +52,7 @@
 
     
     <p style="text-align: center;font-size: 2rem; Font-family:Apple Chancery, cursive	;" class="font-weight-bolder">
-      <span style="color:red">  Voilà</span> c'est notre projet de fin d'année
+      <span style="color:red">  Voilà</span><span style="color:#531c56;"> c'est notre projet de fin d'année</span>
 
     </p>
     <tr >

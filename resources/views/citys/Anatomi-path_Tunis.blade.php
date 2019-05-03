@@ -21,6 +21,8 @@ TUNIS
 
   </div>
   <div class="card-body">
+      <details close>
+          <summary>information</summary>
   <ul class="list-group">
   
   <li class="list-group-item " >Etablissement :  LABORATOIRE D'ANALYSES BIOMEDICALES
@@ -37,7 +39,7 @@ TUNIS
   <li class="list-group-item">code postal : 1082</li>
 
 </ul>
-
+      </details>
   </div>
 </div>
 </div>
@@ -51,6 +53,8 @@ TUNIS
 
   </div>
   <div class="card-body">
+      <details close>
+          <summary>information</summary>
   <ul class="list-group">
   
   <li class="list-group-item " >Etablissement :  CLINIQUE MULTIDISCIPLINAIRE
@@ -67,7 +71,7 @@ TUNIS
   <li class="list-group-item">code postal : 1002</li>
 
 </ul>
-
+      </details>
   </div>
 </div>
 </div>
@@ -75,12 +79,14 @@ TUNIS
 
 <div class="col-md-4">
 <div class="card">
-  <div class="card-header">
+  <div class="card-header" style="background-color:blueviolet;">
  <b> BEN RHOUMA	HICHEM
 </b>
 
   </div>
   <div class="card-body">
+      <details close>
+          <summary>information</summary>
   <ul class="list-group">
   
   <li class="list-group-item " >Etablissement :CLINIQUE MULTIDISCIPLINAIRE  </li>
@@ -96,7 +102,7 @@ TUNIS
   <li class="list-group-item">code postal : 1003</li>
 
 </ul>
-
+      </details>
   </div>
 </div>
 </div>
@@ -116,6 +122,8 @@ TUNIS
 
   </div>
   <div class="card-body">
+      <details close>
+          <summary>information</summary>
   <ul class="list-group">
   
   <li class="list-group-item " >Etablissement :  CLINIQUE MULTIDISCIPLINAIRE

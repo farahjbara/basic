@@ -13,7 +13,7 @@
 
   <thead class="thead-wight"  style="border-color:#efefef">
     <tr>
-      <th scope="col" style="border-color:#efefef">
+      <th scope="col" style="border-color:#efefef"  class="bounce-in-top">
          
         <div class="card" style="width: 18rem; border-color:#efefef" >
           <div class="card-body"  style="background-color : #efefef">
@@ -155,7 +155,11 @@
             </div>
           </div>
           </th>
+
+
+          
       </tr>
     </thead>
 
 
+    
